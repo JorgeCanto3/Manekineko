@@ -1,2 +1,6 @@
 # Manekineko
-## Agente Autonomo de IA para la detecciÓn de olas de calor
+## AI Autonom Agent for the detection of heat waves
+
+### Tecnologies
+- Python
+
